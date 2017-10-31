@@ -1,0 +1,72 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R9 200 Series (ID=0x6810)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   22.19.162.4
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Unity projects\Unity Course\Nuber Wizard UI\Proba_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Unity projects\Unity Course\Nuber Wizard UI\Proba_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Unity projects\Unity Course\Nuber Wizard UI\Proba_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Unity projects\Unity Course\Nuber Wizard UI\Proba_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Unity projects\Unity Course\Nuber Wizard UI\Proba_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Unity projects\Unity Course\Nuber Wizard UI\Proba_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Unity projects\Unity Course\Nuber Wizard UI\Proba_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Unity projects\Unity Course\Nuber Wizard UI\Proba_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.030 seconds
+Platform assembly: E:\Unity projects\Unity Course\Nuber Wizard UI\Proba_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Unity projects\Unity Course\Nuber Wizard UI\Proba_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.320623 ms
+try Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.743598 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 264.
+Total: 0.265708 ms (FindLiveObjects: 0.042132 ms CreateObjectMapping: 0.021745 ms MarkObjects: 0.191296 ms  DeleteObjects: 0.009513 ms)
+
+try Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.430501 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 277.
+Total: 0.286774 ms (FindLiveObjects: 0.045190 ms CreateObjectMapping: 0.022765 ms MarkObjects: 0.208625 ms  DeleteObjects: 0.009174 ms)
+
+try Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.475692 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 264.
+Total: 0.264689 ms (FindLiveObjects: 0.045190 ms CreateObjectMapping: 0.015969 ms MarkObjects: 0.196732 ms  DeleteObjects: 0.005436 ms)
+
+try Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.350313 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 277.
+Total: 0.314976 ms (FindLiveObjects: 0.060480 ms CreateObjectMapping: 0.025823 ms MarkObjects: 0.216779 ms  DeleteObjects: 0.010872 ms)
+
+try Quit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3df4 -> priority: 1 
+  Thread -> id: 1778 -> priority: 1 

@@ -1,2 +1,3 @@
 # test
-# keeping scheduled appointments
+# plan for keeping scheduled appointments
+# 

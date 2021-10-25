@@ -3,5 +3,5 @@
   "definitions": [
     "book your appointment"
   ],
-  "parts-of-speech": ""
+  "parts-of-speech": "book your appointment"
 } 
